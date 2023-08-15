@@ -4,6 +4,7 @@ Honestly, I don't know what to write here, but here's a summary about me.
 
 Currently, I'm an Integration and Automation Engineer (API Gateway) at IT Group. I'm interested on becoming a Software Engineer that creates clean and robust code, but my daily job consists of Infrastructure Engineering. So why don't I became both?
 
+## 📫 How to reach me: https://imandajagad.dev
 # Github Stats
 
 <p align="left">
