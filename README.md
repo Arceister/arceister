@@ -2,7 +2,7 @@
 
 Honestly, I don't know what to write here, but here's a summary about me.
 
-Currently, I'm an Integration and Automation Engineer (API Gateway) at IT Group. I'm interested on becoming a Software Engineer that creates clean and robust code, but my daily job consists of Infrastructure Engineering. So why don't I became both?
+Currently, I'm a Software Engineer at Tokopedia. Besides software engineering, I'm interested in building systems with CNCF stacks and experimenting things with my own server.
 
 ## 📫 How to reach me: https://imandajagad.dev
 # Github Stats
